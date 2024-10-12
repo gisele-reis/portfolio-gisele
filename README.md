@@ -77,3 +77,84 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins>***adaptabilidade***</ins>, <ins>***resiliência***</ins> e <ins>***trabalho em equipe***</ins>, por ter sido meu primeiro projeto API e eu ter me integrado a uma equipe em que todos já se conheciam e estavam acostumados a trabalhar juntos, precisei me ajustar ao ritmo do grupo para colaborar com todos, o que também fortaleceu minha <ins>***comunicação***</ins>.
 </details>
+
+<details>
+  <summary>Terceiro Semestre (2023-2)</summary>
+
+  ### Projeto do terceiro semestre: Bermuda
+  
+  O projeto desenvolvido durante o terceiro semestre do curso teve como empresa parceira a Ionic Health. 
+  
+  [GitHub do Projeto](https://github.com/apiFatec/API-3-Semestre-Ionic) 
+  
+  **Tecnologias utilizadas:**
+  
+ 
+  
+  **Contribuições pessoais:**
+  
+ 
+  
+  **Hard Skills:**
+  
+  Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
+  
+  
+  
+  **Soft Skills:**
+  
+</details>
+
+<details>
+  <summary>Quarto Semestre (2024-1)</summary>
+
+  ### Projeto do quarto semestre: Orca
+  
+  O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT. 
+  
+  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem) 
+  
+  **Tecnologias utilizadas:**
+  
+ 
+  
+  **Contribuições pessoais:**
+  
+ 
+  
+  **Hard Skills:**
+  
+  Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
+  
+  
+  
+  **Soft Skills:**
+  
+</details>
+
+<details>
+  <summary>Quinto Semestre (2024-2)</summary>
+
+  ### Projeto do quinto semestre: ClimaMonitor
+  
+  O projeto desenvolvido durante o quinto semestre do curso teve como empresa parceira a Kersys. 
+  
+  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre) 
+  
+  **Tecnologias utilizadas:**
+  
+ 
+  
+  **Contribuições pessoais:**
+  
+ 
+  
+  **Hard Skills:**
+  
+  Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
+  
+  
+  
+  **Soft Skills:**
+  
+</details>

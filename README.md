@@ -84,24 +84,42 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   ### Projeto do terceiro semestre: Bermuda
   
   O projeto desenvolvido durante o terceiro semestre do curso teve como empresa parceira a Ionic Health. 
+
+  O problema apresentado envolvia a necessidade de disponibilizar uma plataforma web que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
+
+  Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.
   
   [GitHub do Projeto](https://github.com/apiFatec/API-3-Semestre-Ionic) 
   
   **Tecnologias utilizadas:**
-  
+
+  * PostgreSQL
+  * TypeScript
+  * JavaScript
+  * NestJS
+  * React
+  * TailwindCSS
  
   
   **Contribuições pessoais:**
-  
+
+  Neste projeto, atuei como desenvolvedora e fui responsável pela criação do formulário de cadastrar processos e tarefas, também desenvolvi a tela home com a listagem dos cards de cada processo, separados de acordo com a classificação (Aguardando, Em progresso e Finalizado).  
  
   
   **Hard Skills:**
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
   
-  
+  * React
+  * TailwindCSS
+  * TypeScript
+  * JavaScript
+  * NestJS
+  * PostgreSQL
   
   **Soft Skills:**
+
+  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins></ins>, <ins></ins> e <ins></ins>, devido ao fato de.
   
 </details>
 
@@ -110,25 +128,43 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   ### Projeto do quarto semestre: Orca
   
-  O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT. 
+  O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT.
+
+  O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
+
+  A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.
   
   [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem) 
   
   **Tecnologias utilizadas:**
-  
+
+  * React
+  * TailwindCSS
+  * JavaScript
+  * NodeJS
+  * MySQL
  
   
   **Contribuições pessoais:**
-  
+
+  Neste projeto, atuei como desenvolvedora e fui responsável pelo desenvolvimento da sidebar, da tela de criar reuniões e por elaborar a geração e impressão de atas das reuniões.
  
   
   **Hard Skills:**
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
-  
+
+  * React
+  * TailwindCSS
+  * JavaScript
+  * NodeJS
+  * MySQL
   
   
   **Soft Skills:**
+
+  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins></ins>, <ins></ins> e <ins></ins>, devido ao fato de.
+  
   
 </details>
 
@@ -156,5 +192,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   
   **Soft Skills:**
+
+  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins></ins>, <ins></ins> e <ins></ins>, devido ao fato de.
   
 </details>

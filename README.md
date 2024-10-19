@@ -44,22 +44,24 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   ### Projeto do segundo semestre: WeClass
   
+  [GitHub do Projeto](https://github.com/apiFatec/API-2-Semestre-Bertoti?tab=readme-ov-file#solu%C3%A7%C3%A3o-de-proposta)
+  
   O projeto desenvolvido durante o segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Bertoti, que assumiu o papel de cliente final.
   
   O problema apresentado envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
+
+  <h3>Solução</h3>
   
   Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o WeClass, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e monitorar o desempenho da turma e dos alunos.
   
-  [GitHub do Projeto](https://github.com/apiFatec/API-2-Semestre-Bertoti?tab=readme-ov-file#solu%C3%A7%C3%A3o-de-proposta) 
-  
   **Tecnologias utilizadas:**
   
-  * MySQL
-  * Java
-  * JavaFX
-  * JavaFX Scene Builder
+  * MySQL: Banco de dados relacional utilizado para armazenar informações de turmas, alunos e tarefas.
+  * Java: Linguagem de programação base do projeto, utilizada para desenvolver toda a lógica de funcionamento do sistema.
+  * JavaFX: Framework utilizado para criar a interface gráfica do usuário (GUI) do aplicativo.
+  * JavaFX Scene Builder: Ferramenta para construção das telas de forma visual, facilitando a montagem do design e a organização dos componentes da interface.
   
-  **Contribuições pessoais:**
+  <h3>Contribuições pessoais:</h3>
   
   Neste projeto, atuei como desenvolvedora e fui responsável pela criação da tela principal, utilizando o Scene Builder para implementar o design elaborado no Figma. Além disso, desenvolvi a classe Aluno e seus métodos, bem como a lógica e a parte visual da barra de progresso dos alunos.
   
@@ -67,60 +69,70 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
   
-  * MySQL
-  * Java
-  * JavaFX
-  * JavaFX Scene Builder
-  
+  * MySQL: Básico – Realizei operações simples no banco de dados, como consultas e manipulação de registros.
+  * Java: Intermediário – Fui capaz de desenvolver a lógica do sistema e criar funcionalidades específicas.
+  * JavaFX: Intermediário – Consegui criar interfaces e integrá-las à lógica do programa.
+  * JavaFX Scene Builder: Avançado – Criei telas complexas com agilidade, respeitando o design previamente definido.
   
   **Soft Skills:**
   
-  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins>***adaptabilidade***</ins>, <ins>***resiliência***</ins> e <ins>***trabalho em equipe***</ins>, por ter sido meu primeiro projeto API e eu ter me integrado a uma equipe em que todos já se conheciam e estavam acostumados a trabalhar juntos, precisei me ajustar ao ritmo do grupo para colaborar com todos, o que também fortaleceu minha <ins>***comunicação***</ins>.
+  Durante o projeto, desenvolvi e exercitei as seguintes soft skills:
+
+  * Adaptabilidade: Por ser meu primeiro projeto API, precisei me ajustar rapidamente ao processo e ferramentas utilizadas pela equipe.
+  * Resiliência: Enfrentei desafios para me adaptar ao ritmo de trabalho do grupo e superar dificuldades técnicas, mantendo a motivação e o foco.
+  * Trabalho em equipe: Atuei de forma colaborativa, respeitando o espaço e as ideias dos colegas, o que foi essencial para o sucesso do projeto.
+  * Comunicação: Como eu me integrei a uma equipe que já tinha um ritmo próprio, precisei me comunicar claramente para evitar mal-entendidos e alinhar expectativas.
+
 </details>
 
 <details>
+  
   <summary>Terceiro Semestre (2023-2)</summary>
 
   ### Projeto do terceiro semestre: Bermuda
+  
+  [GitHub do Projeto](https://github.com/apiFatec/API-3-Semestre-Ionic) 
   
   O projeto desenvolvido durante o terceiro semestre do curso teve como empresa parceira a Ionic Health. 
 
   O problema apresentado envolvia a necessidade de disponibilizar uma plataforma web que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
 
-  Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.
+  <h3>Solução</h3>
   
-  [GitHub do Projeto](https://github.com/apiFatec/API-3-Semestre-Ionic) 
+  Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.
   
   **Tecnologias utilizadas:**
 
-  * PostgreSQL
-  * TypeScript
-  * JavaScript
-  * NestJS
-  * React
-  * TailwindCSS
+  * PostgreSQL: Banco de dados relacional para armazenar as informações dos processos e tarefas.
+  * TypeScript: Linguagem utilizada para adicionar tipagem estática ao JavaScript, garantindo maior segurança e organização no código.
+  * JavaScript: Base para a lógica do front e back-end.
+  * NestJS: Framework para desenvolver o back-end da aplicação, organizando a lógica de negócio e garantindo uma API eficiente.
+  * React: utilizado para o desenvolvimento das interfaces de usuário da plataforma.
+  * TailwindCSS: Biblioteca de estilos utilizada para agilizar a construção de componentes visuais e garantir uma interface moderna e responsiva.
  
-  
-  **Contribuições pessoais:**
+  <h3>Contribuições pessoais:</h3>
 
-  Neste projeto, atuei como desenvolvedora e fui responsável pela criação do formulário de cadastrar processos e tarefas, também desenvolvi a tela home com a listagem dos cards de cada processo, separados de acordo com a classificação (Aguardando, Em progresso e Finalizado).  
+  Neste projeto, atuei como desenvolvedora e fui responsável pela criação do formulário de cadastro de processos e tarefas. Também desenvolvi a tela inicial (Home), onde implementei uma listagem de cards para cada processo, organizando-os por classificação (Aguardando, Em progresso e Finalizado).  
  
-  
   **Hard Skills:**
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
   
-  * React
-  * TailwindCSS
-  * TypeScript
-  * JavaScript
-  * NestJS
-  * PostgreSQL
+  * React: Intermediário – Criação de componentes customizados e reutilizáveis e interfaces dinâmicas.
+  * TailwindCSS: Avançado – Desenvolvi interfaces consistentes e responsivas com eficiência.
+  * TypeScript: Intermediário – Implementação de tipagem para evitar erros comuns e garantir melhor organização.
+  * JavaScript: Avançado – Desenvolvimento da lógica de front e back-end com boa performance.
+  * NestJS: Básico – Implementação de rotas e regras de negócio no back-end.
+  * PostgreSQL: Básico – Criação de tabelas e consultas para armazenar dados de processos e tarefas.
   
   **Soft Skills:**
 
-  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins></ins>, <ins></ins> e <ins></ins>, devido ao fato de.
-  
+  Uma situação marcante no projeto envolveu gestão de conflitos. Durante uma reunião, o scrum master sugeriu a remoção de um membro da equipe devido à baixa produtividade, e nós precisávamos nos posicionar a respeito. Essa situação exigiu uma série de habilidades interpessoais fundamentais, como:
+
+  * Comunicação assertiva: Contribuí para a discussão expressando meu ponto de vista de forma clara e respeitosa, garantindo que diferentes perspectivas fossem consideradas.
+  * Empatia: Busquei compreender as possíveis dificuldades enfrentadas pelo colega antes de tomar uma posição definitiva.
+  * Ética profissional: Analisei a situação de maneira justa, considerando tanto o impacto no projeto quanto o lado do colega, para que a decisão fosse responsável e equilibrada.
+
 </details>
 
 <details>
@@ -128,43 +140,48 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   ### Projeto do quarto semestre: Orca
   
+  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem) 
+  
   O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT.
 
   O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
 
-  A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.
+  <h3>Solução</h3>
   
-  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem) 
+  A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.
   
   **Tecnologias utilizadas:**
 
-  * React
-  * TailwindCSS
-  * JavaScript
-  * NodeJS
-  * MySQL
+  * React: Desenvolvimento da interface do usuário, garantindo interatividade e fluidez na navegação.
+  * TailwindCSS: Estilização rápida e eficiente para garantir uma interface responsiva e consistente.
+  * JavaScript: Implementação da lógica de interação na interface e integração com o backend.
+  * NodeJS: Desenvolvimento do backend e manipulação das rotas.
+  * MySQL: Banco de dados relacional para armazenar as informações das reuniões.
  
   
-  **Contribuições pessoais:**
+  <h3>Contribuições pessoais:</h3>
 
   Neste projeto, atuei como desenvolvedora e fui responsável pelo desenvolvimento da sidebar, da tela de criar reuniões e por elaborar a geração e impressão de atas das reuniões.
- 
   
   **Hard Skills:**
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
 
-  * React
-  * TailwindCSS
-  * JavaScript
-  * NodeJS
-  * MySQL
+  * React: Intermediário – Desenvolvimento de interfaces dinâmicas e integração com o backend.
+  * TailwindCSS: Avançado – Criação de componentes estilizados e responsivos de forma eficiente.
+  * JavaScript: Avançado – Implementação da lógica de interação e manipulação de dados na interface.
+  * NodeJS: Básico - manipulação de rotas do backend para a comunicação com o frontend
+  * MySQL: Básico – Realizei operações de CRUD para gerenciar os dados das reuniões e atas.
   
   
   **Soft Skills:**
 
-  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins></ins>, <ins></ins> e <ins></ins>, devido ao fato de.
-  
+  Durante o desenvolvimento deste projeto, enfrentamos um desafio significativo: muitos membros do grupo deixaram a equipe – alguns trocaram de faculdade, enquanto outros mudaram de grupo. Com poucos membros restantes, ficamos sobrecarregados tentando dar conta de todas as entregas. Ao final da primeira sprint, tomamos a decisão de encerrar o time e nos unir a outro grupo. Essa experiência exigiu o desenvolvimento de várias soft skills, como:
+
+  * Resiliência: Lidei com a frustração de perder colegas e continuei focada nas minhas responsabilidades, mesmo em meio a incertezas.
+  * Comunicação clara e assertiva: Tive que comunicar a situação de forma objetiva aos colegas para garantir uma transição organizada e sem conflitos.
+  * Colaboração e integração: Ao nos juntarmos ao novo time, precisei me adaptar ao ritmo e aos processos deles para garantir que a união fosse produtiva.
+  * Flexibilidade: tive que aprender a ser flexível para lidar com imprevistos no contexto de projetos.
   
 </details>
 
@@ -173,9 +190,10 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   ### Projeto do quinto semestre: ClimaMonitor
   
+  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre) 
+  
   O projeto desenvolvido durante o quinto semestre do curso teve como empresa parceira a Kersys. 
   
-  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre) 
   
   **Tecnologias utilizadas:**
   

@@ -45,8 +45,12 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   ### Projeto do segundo semestre: WeClass
   
   [GitHub do Projeto](https://github.com/apiFatec/API-2-Semestre-Bertoti?tab=readme-ov-file#solu%C3%A7%C3%A3o-de-proposta)
-  
-  O projeto desenvolvido durante o segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Bertoti, que assumiu o papel de cliente final.
+
+  **Professores Reponsáveis:** M2: Cláudio Etelvino P2: Giuliano Bertoti
+
+  **Empresa Parceira:** Fatec São José dos Campos. Os requisitos foram apresentados pelo professor Giuliano Bertoti, que assumiu o papel de cliente final.
+
+  <h3>Desafio Proposto</h3>
   
   O problema apresentado envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
 
@@ -69,7 +73,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
   
-  * MySQL: Básico – Realizei operações simples no banco de dados, como consultas e manipulação de registros.
+  * MySQL: Intermediário – Realizei consultas e manipulação de registros.
   * Java: Intermediário – Fui capaz de desenvolver a lógica do sistema e criar funcionalidades específicas.
   * JavaFX: Intermediário – Consegui criar interfaces e integrá-las à lógica do programa.
   * JavaFX Scene Builder: Avançado – Criei telas complexas com agilidade, respeitando o design previamente definido.
@@ -92,9 +96,13 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   ### Projeto do terceiro semestre: Bermuda
   
   [GitHub do Projeto](https://github.com/apiFatec/API-3-Semestre-Ionic) 
-  
-  O projeto desenvolvido durante o terceiro semestre do curso teve como empresa parceira a Ionic Health. 
 
+  **Professores Reponsáveis:** M2: Cláudio Etelvino P2: Fernando Masanori
+  
+  **Empresa Parceira:** Ionic Health. 
+
+  <h3>Desafio Proposto</h3>
+  
   O problema apresentado envolvia a necessidade de disponibilizar uma plataforma web que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
 
   <h3>Solução</h3>
@@ -118,12 +126,12 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
   
-  * React: Intermediário – Criação de componentes customizados e reutilizáveis e interfaces dinâmicas.
+  * React: Avançado – Criação de componentes customizados e reutilizáveis e interfaces dinâmicas.
   * TailwindCSS: Avançado – Desenvolvi interfaces consistentes e responsivas com eficiência.
-  * TypeScript: Intermediário – Implementação de tipagem para evitar erros comuns e garantir melhor organização.
+  * TypeScript: Avançado – Implementação de tipagem para evitar erros comuns e garantir melhor organização.
   * JavaScript: Avançado – Desenvolvimento da lógica de front e back-end com boa performance.
   * NestJS: Básico – Implementação de rotas e regras de negócio no back-end.
-  * PostgreSQL: Básico – Criação de tabelas e consultas para armazenar dados de processos e tarefas.
+  * PostgreSQL: Intermediário – Criação de tabelas e consultas para armazenar dados de processos e tarefas.
   
   **Soft Skills:**
 
@@ -141,9 +149,13 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   ### Projeto do quarto semestre: Orca
   
   [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem) 
-  
-  O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT.
 
+  **Professores Reponsáveis:** M2: Fabiano Sabha P2: Juliana Pasquini
+  
+  **Empresa Parceira:** SIATT.
+
+  <h3>Desafio Proposto</h3>
+  
   O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
 
   <h3>Solução</h3>
@@ -167,12 +179,11 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
 
-  * React: Intermediário – Desenvolvimento de interfaces dinâmicas e integração com o backend.
+  * React: Avançado – Desenvolvimento de interfaces dinâmicas e integração com o backend.
   * TailwindCSS: Avançado – Criação de componentes estilizados e responsivos de forma eficiente.
   * JavaScript: Avançado – Implementação da lógica de interação e manipulação de dados na interface.
   * NodeJS: Básico - manipulação de rotas do backend para a comunicação com o frontend
-  * MySQL: Básico – Realizei operações de CRUD para gerenciar os dados das reuniões e atas.
-  
+  * MySQL: Intermediário – Realizei operações de CRUD para gerenciar os dados das reuniões e atas.
   
   **Soft Skills:**
 
@@ -191,26 +202,50 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   ### Projeto do quinto semestre: ClimaMonitor
   
   [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre) 
+
+  **Professores Reponsáveis:** M2: Jean Costa P2: Gerson da Penha
   
-  O projeto desenvolvido durante o quinto semestre do curso teve como empresa parceira a Kersys. 
+  **Empresa Parceira:** Kersys. 
+
+  <h3>Desafio Proposto</h3>
   
+  Desenvolver um aplicativo que permite acompanhar o histórico das informações climáticas de uma determinada lavoura ou local cadastrado.
+
+  <h3>Solução</h3>
+
+  A proposta de solução foi o desenvolvimento de um aplicativo mobile que permite aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura, emitindo notificações e alertas em caso de situações críticas.
   
   **Tecnologias utilizadas:**
-  
- 
+
+  * Typescript: Desenvolvimento tanto do frontend quanto do backend.
+  * React Native: Desenvolvimento do aplicativo mobile
+  * NodeJS: Backend responsável pela lógica de negócio e integração com outros serviços.
+  * Firebase: Armazenamento dos dados dos locais e cultivos.
+  * Leaflet: Exibição de mapa interativo para seleção e visualização de locais.
+  * MySQL: Armazenamento dos dados dos usuários.
   
   **Contribuições pessoais:**
-  
- 
+
+  Nesse projeto, fui responsável por desenvolver a tela de cadastro de locais e cultivos e por criar os critérios e implementar a funcionalidade de envio de notificações push.
   
   **Hard Skills:**
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
-  
+
+  * React Native: Básico - Experiência inicial com desenvolvimento mobile e criação de interfaces.
+  * Typescript: Avançado - Organização de código no frontend e backend.
+  * NodeJS: Básico - Lógica backend e manipulação de rotas para a comunicação com o frontend.
+  * MySQL: Intermediário - Manipulação de dados de usuários por meio de operações CRUD.
   
   
   **Soft Skills:**
 
-  As principais _soft skills_ que precisei desenvolver nesse projeto foram <ins></ins>, <ins></ins> e <ins></ins>, devido ao fato de.
+  Este foi meu primeiro projeto mobile, o que exigiu o desenvolvimento das seguintes soft skills:
+
+  * Aprendizado rápido: Precisava entender e aplicar os conceitos novos de React Native de forma rápida para desenvolver a interface do aplicativo.
+  * Gestão de tempo: Como estava lidando com tecnologias que ainda não dominava, precisei organizar meu tempo de forma eficiente para cumprir os prazos.
+  * Resiliência: Enfrentei algumas dificuldades técnicas relacionadas ao envio de notificações push e precisei persistir na busca por soluções.
+  * Proatividade: Tomei a iniciativa de sugerir melhorias nos critérios para as notificações e na estrutura do projeto.
+  
   
 </details>

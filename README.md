@@ -48,11 +48,12 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   **Professores Reponsáveis:** M2: Cláudio Etelvino P2: Giuliano Bertoti
 
-  **Empresa Parceira:** Fatec São José dos Campos. Os requisitos foram apresentados pelo professor Giuliano Bertoti, que assumiu o papel de cliente final.
+  **Empresa Parceira:** Fatec São José dos Campos. Os requisitos foram apresentados pelo professor Giuliano Bertoti, que assumiu o papel de cliente final. <br>
+  **Área de Atuação:** Educação superior tecnológica.
 
   <h3>Desafio Proposto</h3>
   
-  O problema apresentado envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
+  O professor enfrentava um problema no gerenciamento de turmas e alunos nas atividades escolares. O portal disponibilizado era limitado e instável, tornando desafiador para o professor acompanhar o desempenho dos alunos de forma eficiente, afetando a organização e o acompanhamento do ensino. O desafio proposto envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
 
   <h3>Solução</h3>
   
@@ -67,7 +68,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   <h3>Contribuições pessoais:</h3>
   
-  Neste projeto, atuei como desenvolvedora e fui responsável pela criação da tela principal, utilizando o Scene Builder para implementar o design elaborado no Figma. Além disso, desenvolvi a classe Aluno e seus métodos, bem como a lógica e a parte visual da barra de progresso dos alunos.
+  Neste projeto, atuei como desenvolvedora e fui responsável pela criação da tela principal, utilizando o Scene Builder para implementar o design elaborado no Figma. Além disso, exercitei bastante meus conhecimentos sobre Java e programação orientada a objetos atuando no desenvolvimento da classe Aluno e seus métodos. Também criei a lógica e a parte visual da barra de progresso para exibir o desempenho dos alunos.
   
   **Hard Skills:**
   
@@ -99,11 +100,12 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   **Professores Reponsáveis:** M2: Cláudio Etelvino P2: Fernando Masanori
   
-  **Empresa Parceira:** Ionic Health. 
+  **Empresa Parceira:** Ionic Health. <br>
+  **Área de Atuação:** Tecnologia para saúde, viabiliza a assistência médica por meio de tecnologias de automação e integração, fornecendo soluções de tecnologias remotas e de relatórios para a área da saúde.
 
   <h3>Desafio Proposto</h3>
-  
-  O problema apresentado envolvia a necessidade de disponibilizar uma plataforma web que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
+
+  A Ionic Health apresentava dificuldades para rastrear e gerenciar suas atividades de forma eficiente e, portanto, precisava de uma plataforma que organizasse e documentasse os processos regulatórios da empresa. O desafio proposto envolvia a necessidade de disponibilizar uma plataforma web unificada que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
 
   <h3>Solução</h3>
   
@@ -120,7 +122,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
  
   <h3>Contribuições pessoais:</h3>
 
-  Neste projeto, atuei como desenvolvedora e fui responsável pela criação do formulário de cadastro de processos e tarefas. Também desenvolvi a tela inicial (Home), onde implementei uma listagem de cards para cada processo, organizando-os por classificação (Aguardando, Em progresso e Finalizado).  
+  Neste projeto, atuei como desenvolvedora e fui responsável pela criação do formulário de cadastro de processos e tarefas, assim como a tela inicial (Home), onde implementei uma listagem de cards para cada processo, organizando-os por classificação (Aguardando, Em progresso e Finalizado). Utilizei React e TailwindCSS para criar uma interface consistente e funcional, o que melhorou a navegação e organização das tarefas.
  
   **Hard Skills:**
   
@@ -152,11 +154,12 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   **Professores Reponsáveis:** M2: Fabiano Sabha P2: Juliana Pasquini
   
-  **Empresa Parceira:** SIATT.
+  **Empresa Parceira:** SIATT <br>
+  **Área de Atuação:** Integração de sistemas de alto teor tecnológico, fornecendo soluções para demandas dos setores de defesa e aeroespacial.
 
   <h3>Desafio Proposto</h3>
-  
-  O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
+
+  A empresa precisava lidar com equipes cada vez maiores no contexto pós-pandemia e apresentava dificuldades para coordenar o agendamento de reuniões. A falta de uma plataforma unificada para o gerenciamento das reuniões resultava em desorganização e tempo excessivo gasto em processos manuais. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
 
   <h3>Solução</h3>
   
@@ -173,7 +176,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   <h3>Contribuições pessoais:</h3>
 
-  Neste projeto, atuei como desenvolvedora e fui responsável pelo desenvolvimento da sidebar, da tela de criar reuniões e por elaborar a geração e impressão de atas das reuniões.
+  Neste projeto, desenvolvi a sidebar, a tela de criação de reuniões e a funcionalidade de geração e impressão de atas, garantindo que todos os detalhes fossem registrados automaticamente. Utilizei a biblioteca `` react-to-print `` para possibilitar que o usuário imprimisse a ata ou a salvasse em formato pdf. A interação com o backend foi essencial para a coleta de dados de usuários e armazenamento das atas, o que me permitiu exercitar habilidades em MySQL. A responsividade também foi um ponto importante desse projeto, me dando a oportunidade de aperfeiçoar meus conhecimentos em React e TailwindCSS.
   
   **Hard Skills:**
   
@@ -205,11 +208,12 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   **Professores Reponsáveis:** M2: Jean Costa P2: Gerson da Penha
   
-  **Empresa Parceira:** Kersys. 
+  **Empresa Parceira:** Kersys. <br>
+  **Área de Atuação:** Desenvolvimento de softwares de gestão para as áreas florestais e do agronegócio.
 
   <h3>Desafio Proposto</h3>
   
-  Desenvolver um aplicativo que permite acompanhar o histórico das informações climáticas de uma determinada lavoura ou local cadastrado.
+  O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.
 
   <h3>Solução</h3>
 
@@ -226,7 +230,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   **Contribuições pessoais:**
 
-  Nesse projeto, fui responsável por desenvolver a tela de cadastro de locais e cultivos e por criar os critérios e implementar a funcionalidade de envio de notificações push.
+  Atuei na criação da tela de cadastro de locais/cultivos e seus componentes, e na implementação de critérios para envio de notificações push em React Native, utilizando a biblioteca `` expo-notifications ``. Além disso, fui responsável pela criação do design e desenvolvimento da tela de perfil do usuário, onde utilizei a biblioteca `` expo-image-picker `` para permitir acesso ao sistema e selecionar imagens da biblioteca do celular, tudo isso me ajudou a exercitar minha criatividade e colocar em prática minhas habilidades usando React Native.
   
   **Hard Skills:**
   

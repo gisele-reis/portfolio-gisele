@@ -213,7 +213,7 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   <h3>Desafio Proposto</h3>
   
-  O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.
+  O problema apresentado pelo cliente envolvia a dificuldade dos produtores rurais para monitorar as condições climáticas de suas áreas de cultivo e acompanhar as mudanças climáticas que afetavam diretamente a produtividade agrícola. O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.
 
   <h3>Solução</h3>
 

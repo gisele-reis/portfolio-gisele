@@ -253,3 +253,57 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   
 </details>
+
+<details>
+  <summary>Sexto Semestre (2025-1)</summary>
+
+  ### Projeto do sexto semestre: DOM Rock
+  
+  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_6_Semestre) 
+
+  **Professores Reponsáveis:** M2: Eduardo Sakaue P2: Walmir Duque
+  
+  **Empresa Parceira:** Dom Rock. <br>
+  **Área de Atuação:** Fornecimento de tecnologia para alta produtividade e agilidade nas decisões operacionais e estratégicas das organizações através da combinação de algoritmos de inteligência artificial, modelos complexos e arquitetura de datalake.
+
+  <h3>Desafio Proposto</h3>
+  
+  O problema apresentado pelo cliente envolvia a ausência de uma plataforma centralizada que possibilita a comparação, avaliação e fornecimento de feedback humano estruturado sobre as respostas de LLMs, dificultando o aprimoramento desses modelos em relação aos critérios esperados pelos usuários, como coerência, veracidade, naturalidade na linguagem e segurança.
+
+  <h3>Solução</h3>
+
+  A proposta de solução foi o desenvolvimento de um sistema para avaliação de respostas geradas por LLMs, permitindo o envio de prompts para dois modelos simultaneamente. O sistema apresenta as respostas recebidas e possibilita que os usuários avaliem e comparem essas respostas, fornecendo feedback humano estruturado.
+  
+  **Tecnologias utilizadas:**
+
+  * Spring Boot (Java): Backend e lógica de negócios.
+  * Vue.js (SPA): Interface do sistema com experiência fluida para o usuário.
+  * Python: Scripts auxiliares e integração com ferramentas de IA.
+  * Langchain: Intermediação de prompts e conexão com os LLMs.
+  * Groq: Utilização de LLMs rápidos e de alto desempenho.
+  * MongoDB: usado como banco vetorial para armazenar e indexar arquivos de suporte ao RAG.
+  
+  **Contribuições pessoais:**
+
+  Atuei no desenvolvimento do front-end com Vue.js, colaborando na criação das páginas de envio de prompts, exibição das respostas dos modelos e interface de avaliação. Também participei da integração entre front-end e back-end, garantindo a correta comunicação com a API e a persistência dos dados.
+  
+  **Hard Skills:**
+  
+  Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
+  
+  * Vue.js: Criação de interfaces dinâmicas e componentes reutilizáveis (nível intermediário).
+  * Java (Spring Boot): Consumo de APIs e entendimento do funcionamento do backend (nível básico).
+  * Integração API REST: Comunicação entre frontend e backend.
+  * Git/GitHub: Trabalho colaborativo com versionamento de código.
+  
+  **Soft Skills:**
+
+  Como iniciei um estágio no mesmo semestre, enfrentei desafios em relação à gestão de tempo e produtividade. Também foi meu primeiro projeto utilizando Vue.js, o que exigiu o desenvolvimento das seguintes soft skills:
+  
+  * Aprendizado contínuo: Domínio rápido de uma nova tecnologia para entregar as funcionalidades.
+  * Trabalho em equipe: Colaboração próxima com os colegas do front-end e back-end.
+  * Comunicação clara: Esclarecimento de dúvidas técnicas com os professores e a empresa.
+  * Adaptabilidade: Flexibilidade para ajustar o escopo e adaptar as entregas conforme o feedback recebido.
+  * Equilíbrio entre trabalho e estudo: A experiência de conciliar o estágio com o projeto acadêmico me ensinou a estabelecer prioridades, negociar entregas de forma responsável e reconhecer meus limites para buscar apoio quando necessário.
+
+</details>

@@ -11,7 +11,7 @@
 
 Meu nome é Gisele Reis, tenho 26 anos e sou formada em Biomedicina. Apesar da minha formação na área da saúde, sempre tive muito interesse por programação e tecnologia. Em 2022, decidi mudar de carreira e participei do Empower Code for Women, um projeto da Zenvia e Alura que me ensinou HTML5, CSS3, JavaScript, Node.js, Git e GitHub. No mesmo ano, comecei a cursar Análise e Desenvolvimento de Sistemas na Fatec Taubaté, onde tive meu primeiro contato com C#. No semestre seguinte, transferi minha matrícula para a Fatec São José dos Campos, onde aprendi sobre diversas tecnologias, como React, React Native, TypeScript, Java, Python, SQL, e também sobre metodologias ágeis.
 
-Ainda não tenho experiência profissional na área de tecnologia, mas, durante os estudos na Fatec SJC, me desenvolvi bastante. Através da metodologia de Aprendizagem por Projetos Integrados, tive a chance de trabalhar com diferentes empresas e participar de projetos reais, o que foi ótimo para aplicar o que aprendi de forma prática.
+No início de 2025, comecei a estagiar na empresa CEPA Mobility, onde atuo com tratamento e gerenciamento de dados, além de aplicar meus conhecimentos em Python para desenvolver automações. Apesar da minha pouca experiência profissional na área de tecnologia, durante os estudos na Fatec SJC me desenvolvi bastante através da metodologia de Aprendizagem por Projetos Integrados (API), onde tive a chance de trabalhar com diferentes empresas e participar de projetos reais, o que foi ótimo para aplicar o que aprendi de forma prática.
 
 
 ## Meus Principais Conhecimentos
@@ -268,11 +268,11 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
 
   <h3>Desafio Proposto</h3>
   
-  O problema apresentado pelo cliente envolvia a ausência de uma plataforma centralizada que possibilita a comparação, avaliação e fornecimento de feedback humano estruturado sobre as respostas de LLMs, dificultando o aprimoramento desses modelos em relação aos critérios esperados pelos usuários, como coerência, veracidade, naturalidade na linguagem e segurança.
+  O problema apresentado pelo cliente envolvia a dificuldade enfrentada por cuidadores de pacientes com Alzheimer, muitas vezes sem formação ou preparo técnico, para lidar com situações imprevistas no dia a dia. O desafio consistia em apoiar esses cuidadores por meio de um assistente conversacional confiável, o que exigia uma forma estruturada de comparar e avaliar respostas geradas por diferentes modelos de linguagem (LLMs), garantindo qualidade, empatia e segurança na comunicação.
 
   <h3>Solução</h3>
 
-  A proposta de solução foi o desenvolvimento de um sistema para avaliação de respostas geradas por LLMs, permitindo o envio de prompts para dois modelos simultaneamente. O sistema apresenta as respostas recebidas e possibilita que os usuários avaliem e comparem essas respostas, fornecendo feedback humano estruturado.
+  A proposta de solução foi o desenvolvimento de uma plataforma web que permite o envio simultâneo de prompts para dois LLMs, apresentando suas respostas lado a lado para que usuários possam avaliá-las e fornecer feedback humano estruturado. Essa plataforma contribui para a escolha e aprimoramento dos modelos mais adequados ao contexto sensível do cuidado com pacientes com Alzheimer.
   
   **Tecnologias utilizadas:**
 
@@ -291,19 +291,16 @@ Tenho preferência por atuar com desenvolvimento front-end, mas também possuo c
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
   
-  * Vue.js: Criação de interfaces dinâmicas e componentes reutilizáveis (nível intermediário).
-  * Java (Spring Boot): Consumo de APIs e entendimento do funcionamento do backend (nível básico).
-  * Integração API REST: Comunicação entre frontend e backend.
-  * Git/GitHub: Trabalho colaborativo com versionamento de código.
+  * Vue.js: Básico - Criação de interfaces dinâmicas e componentes reutilizáveis.
+  * Java (Spring Boot): Intermediário - Consumo de APIs e entendimento do funcionamento do backend.
+  * Integração API REST: Avançado - Comunicação entre frontend e backend.
+  * Git/GitHub: Avançado - Trabalho colaborativo com versionamento de código.
   
   **Soft Skills:**
 
   Como iniciei um estágio no mesmo semestre, enfrentei desafios em relação à gestão de tempo e produtividade. Também foi meu primeiro projeto utilizando Vue.js, o que exigiu o desenvolvimento das seguintes soft skills:
   
   * Aprendizado contínuo: Domínio rápido de uma nova tecnologia para entregar as funcionalidades.
-  * Trabalho em equipe: Colaboração próxima com os colegas do front-end e back-end.
-  * Comunicação clara: Esclarecimento de dúvidas técnicas com os professores e a empresa.
-  * Adaptabilidade: Flexibilidade para ajustar o escopo e adaptar as entregas conforme o feedback recebido.
   * Equilíbrio entre trabalho e estudo: A experiência de conciliar o estágio com o projeto acadêmico me ensinou a estabelecer prioridades, negociar entregas de forma responsável e reconhecer meus limites para buscar apoio quando necessário.
 
 </details>
